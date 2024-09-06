@@ -1,0 +1,3 @@
+C:/Users/valwe/CLionProjects/WurstbudeEngine/cmake-build-debug/CMakeFiles/WurstbudeEngine.dir
+C:/Users/valwe/CLionProjects/WurstbudeEngine/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/valwe/CLionProjects/WurstbudeEngine/cmake-build-debug/CMakeFiles/rebuild_cache.dir
